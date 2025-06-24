@@ -7,6 +7,13 @@ Public Repo for the 2025 Work School Experience at King's College London organis
 
 **Location:** Guys Campus 
 
+**Details**
+
+Amy Roberts, Flavia Flaviani, and Fewa Laleye are participanting in a work experience with the School of Life Course and Population Sciences. 
+The workshop will be based on data analysis/bioinformatics for year 11-12 students visiting King's College London for work experience organised by Pamela Taylor-Harris and you can read about the [Work Experience Programme here](https://www.kcl.ac.uk/school-work-experience-programme-an-interview-with-pamela-taylor-harris-slcps-technical-manager)
+
+Please visit the [Wiki page](https://github.com/flacchy/KCL_WHC_work_school_experience_2025/wiki) to access the materials.
+
 
 **Description**
 
@@ -16,12 +23,9 @@ Bioinformatics analyses require skills that include extensive database managemen
 
 R is a freely distributed and widely used programing language and environment for statistical computing, data analysis and graphics. It is open source , widely-used and powerful programming language. RStudio is an integrated development environment (IDE) for R. It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace managemen.
 
+
 ------
 
-**Details**
-
-Amy Roberts, Flavia Flaviani, and Fewa Laleye are participanting in a work experience with the School of Life Course and Population Sciences. 
-The workshop will be based on data analysis/bioinformatics for year 11-12 students visiting King's College London for work experience organised by Pamela Taylor-Harris and you can read about the [Work Experience Programme here](https://www.kcl.ac.uk/school-work-experience-programme-an-interview-with-pamela-taylor-harris-slcps-technical-manager)
 
 **Instructors**
 
